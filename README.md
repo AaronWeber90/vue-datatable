@@ -1,4 +1,4 @@
-# vue coding challenge: Dynamic Datatable
+# Vue coding challenge: Dynamic Datatable
 
 ## What are the features?
 
